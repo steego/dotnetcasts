@@ -1,5 +1,7 @@
 # Let There Be Data
 
+![Let There Be Data](Let-There-Be-Data.gif)
+
 The most important keyword in F# is let. We use it to define variables:
 
 ```fsharp
